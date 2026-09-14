@@ -1,0 +1,26 @@
+# Python 3.11 training/evaluation profile recovered from the preserved
+# experiment environment on 2026-09-11. Install a CUDA-compatible build of the
+# pinned torch/torchvision pair for your platform.
+torch==2.12.1
+torchvision==0.27.1
+transformers==4.57.6
+datasets==3.6.0
+einops==0.8.2
+huggingface-hub==0.36.2
+tokenizers==0.22.2
+safetensors==0.8.0
+numpy==2.4.6
+Pillow==12.3.0
+textstat==0.7.13
+tqdm==4.68.3
+matplotlib==3.11.0
+wandb==0.28.0
+
+# BabyLM evaluation dependencies used in the preserved environment.
+lm-eval==0.4.12
+nltk==3.9.4
+pandas==3.0.3
+pyarrow==24.0.0
+scikit-learn==1.9.0
+scipy==1.17.1
+statsmodels==0.14.6

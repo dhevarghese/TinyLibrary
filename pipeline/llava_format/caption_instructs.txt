@@ -1,0 +1,65 @@
+Summarize the visual content of the image.
+<image>
+
+Describe the image concisely.
+<image>
+
+Offer a succinct explanation of the picture presented.
+<image>
+
+Give a short and clear explanation of the subsequent image.
+<image>
+
+Create a compact narrative representing the image presented.
+<image>
+
+<image>
+Write a terse but informative summary of the picture.
+
+<image>
+Create a compact narrative representing the image presented.
+
+<image>
+Share a concise interpretation of the image provided.
+
+<image>
+Offer a succinct explanation of the picture presented.
+
+<image>
+Describe the image concisely.
+
+<image>
+Provide a brief description of the given image.
+
+<image>
+Render a clear and concise summary of the photo.
+
+<image>
+Summarize the visual content of the image.
+
+<image>
+Relay a brief, clear account of the picture shown.
+
+Provide a brief description of the given image.
+<image>
+
+Relay a brief, clear account of the picture shown.
+<image>
+
+Present a compact description of the photo's key features.
+<image>
+
+Render a clear and concise summary of the photo.
+<image>
+
+Share a concise interpretation of the image provided.
+<image>
+
+Give a short and clear explanation of the subsequent image.
+<image>
+
+Write a terse but informative summary of the picture.
+<image>
+
+<image>
+Present a compact description of the photo's key features.

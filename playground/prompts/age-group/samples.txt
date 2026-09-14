@@ -1,0 +1,21 @@
+Book text:
+The Falls of Niagara, located in the interior of North America, are comprised of Lakes Erie and Ontario. Lake Erie lies at an elevation of three hundred and thirty-four feet higher than Lake Ontario. These lakes separate Canada from the United States and are connected by the River Niagara. Throughout most of its thirty-two-mile course, the river flows rapidly.
+===
+Age group:
+9+
+===
+Book text:
+We are the Alphabet, together when we be, but we are still much better known when called the ABC. So now we will begin our sport without the least delay, and show to you what letters stand for all the games you play.
+===
+Age group: 
+3-5
+===
+Book text:
+A Walk and a Drive: Rosy thought it would be good fun if they were all tipped out in a heap. She often rolled about herself, like a little ball, without hurting herself; and she thought that papa and mamma would only get a little dusty, and that it would be a nice little job for her to brush the dust off when she got home.
+===
+Age group: 
+6-8
+===
+Book text: 
+<prompt_template>
+===

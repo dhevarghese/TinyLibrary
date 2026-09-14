@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.venv/
+venv/
+
+# Local source data and generated manifests
+data/
+images/
+library/
+ocr/
+manifest*.jsonl
+audit_*.jsonl
+
+# Model and evaluation outputs
+checkpoints*/
+hf_exports*/
+results*/
+wandb/
+logs/
+slurm-*.out
+*.log
+
+# Model and dataset caches
+hf_cache/
+.cache/

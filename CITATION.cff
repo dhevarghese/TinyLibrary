@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use TinyLibrary, please cite the accompanying paper."
+title: "TinyLibrary"
+type: software
+authors:
+  - family-names: "Varghese"
+    given-names: "Dheeraj"
+    affiliation: "University of Amsterdam"
+url: "https://openreview.net/forum?id=3S9UR6Xizi"
+preferred-citation:
+  type: conference-paper
+  title: "TinyLibrary: Do Age-Graded Curricula Help Small Vision-Language Models?"
+  authors:
+    - family-names: "Varghese"
+      given-names: "Dheeraj"
+  year: 2026
+  conference:
+    name: "BabyLM 2026 Workshop at EMNLP 2026"
+  url: "https://openreview.net/forum?id=3S9UR6Xizi"
