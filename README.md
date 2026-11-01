@@ -6,10 +6,11 @@
 
 <p align="center">
   Official repository for <strong>“TinyLibrary: Do Age-Graded Curricula Help Small Vision-Language Models?”</strong>
+  <br>Published in <em>Proceedings of the Second BabyLM Workshop</em> (October 2026).
 </p>
 
 <p align="center">
-  <a href="https://openreview.net/forum?id=3S9UR6Xizi">📄 Paper</a>  |  <a href="https://huggingface.co/datasets/Dheerraa/TinyLibrary">🤗 Dataset</a>
+  <a href="https://aclanthology.org/2026.babylm-main.27/">📄 Paper</a>  |  <a href="https://huggingface.co/datasets/Dheerraa/TinyLibrary">🤗 Dataset</a>
 </p>
 
 TinyLibrary investigates whether ordering children's books by age provides a useful curriculum for training small vision-language models. The study is built on 2,416 English-language books from the International Children's Digital Library (ICDL), from which we selected 46,721 illustrated pages and generated 128,823 captioning, visual question-answering, and reasoning samples containing 21.7M words.
@@ -83,11 +84,27 @@ Except where noted in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md), the code
 ## Citation
 
 ```bibtex
-@inproceedings{varghese2026tinylibrary,
-  title     = {TinyLibrary: Do Age-Graded Curricula Help Small Vision-Language Models?},
-  author    = {Dheeraj Varghese},
-  booktitle = {BabyLM 2026 Workshop at EMNLP 2026},
-  year      = {2026},
-  url       = {https://openreview.net/forum?id=3S9UR6Xizi}
+@inproceedings{varghese-2026-tinylibrary,
+  title     = "{T}iny{L}ibrary: Do Age-Graded Curricula Help Small Vision-Language Models?",
+  author    = "Varghese, Dheeraj",
+  editor    = "Choshen, Leshem and
+               Cotterell, Ryan and
+               Gul, Mustafa Omer and
+               Jumelet, Jaap and
+               Linzen, Tal and
+               Mueller, Aaron and
+               Salhan, Suchir and
+               Shah, Raj Sanjay and
+               Warstadt, Alex and
+               Wilcox, Ethan Gotlieb",
+  booktitle = "Proceedings of the Second {B}aby{LM} Workshop",
+  month     = oct,
+  year      = "2026",
+  address   = "Budapest, Hungary",
+  publisher = "Association for Computational Linguistics",
+  url       = "https://aclanthology.org/2026.babylm-main.27/",
+  doi       = "10.18653/2026.babylm-main.27",
+  pages     = "333--347",
+  ISBN      = "979-8-89176-475-0"
 }
 ```
